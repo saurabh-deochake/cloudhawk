@@ -1,0 +1,8 @@
+config:
+  cloudhawk:appPath: API
+  cloudhawk:concurrency: "50"
+  cloudhawk:containerPort: "8080"
+  cloudhawk:cpu: "1"
+  cloudhawk:memory: 1Gi
+  gcp:project: cloudhawkapp-380800
+  gcp:region: us-central1

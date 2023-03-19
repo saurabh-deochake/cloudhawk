@@ -1,0 +1,6 @@
+name: cloudhawk
+runtime:
+  name: python
+  options:
+    virtualenv: venv
+description: cloudhawk
