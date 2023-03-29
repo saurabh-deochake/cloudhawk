@@ -1,0 +1,4 @@
+pulumi>=3.0.0,<4.0.0
+pulumi-gcp>=6.0.0,<7.0.0
+pulumi-docker>=3.0.0,<4.0.0
+lbrlabs_pulumi_grafana>=0.0.9

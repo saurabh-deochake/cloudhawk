@@ -1,0 +1,8 @@
+config:
+  gcp:project: cloudhawkapp-380800
+  gcp:region: us-central1
+  grafana:appPath: app
+  grafana:concurrency: "50"
+  grafana:containerPort: "8080"
+  grafana:cpu: "1"
+  grafana:memory: 1Gi
