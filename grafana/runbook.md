@@ -1,10 +1,10 @@
 # Runbook
-## API endpoint
-To get the API endpoint, run
+## Grafana endpoint
+To get the Grafana endpoint, run
 ```bash
 $ pulumi up
 ```
-and watch the pulumi output for the cloudrun service url.
+and watch the pulumi output for the Grafana cloudrun service url.
 
 ## venv
 If you haven't created a virtual environment yet, create one in your project directory using the following command:
